@@ -1,0 +1,6 @@
+EchoMAP uses a spatiotemporal KV-memory backbone (model/backbone.py and
+related modules) distributed under the Apache License 2.0; the backbone is
+used unmodified.
+
+All UDA extensions (CFMC, PTC, CDPA; model/uda/, shape_cache.py) were added
+by the EchoMAP authors.

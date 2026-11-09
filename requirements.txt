@@ -1,0 +1,10 @@
+torch>=2.0
+numpy
+opencv-python
+SimpleITK
+omegaconf
+hydra-core
+matplotlib
+pillow
+scipy
+tqdm
